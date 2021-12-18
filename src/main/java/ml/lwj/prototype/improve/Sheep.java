@@ -1,9 +1,11 @@
-package ml.lwj.protype;
+package ml.lwj.prototype.improve;
 
 public class Sheep implements Cloneable{
     private String name;
     private int age;
     private String color;
+    private String address = "蒙古羊";
+    public Sheep friend;// 是对象，克隆是会如何处理
 
     public Sheep(String name, int age, String color) {
         this.name = name;

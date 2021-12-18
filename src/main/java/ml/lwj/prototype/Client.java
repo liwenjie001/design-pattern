@@ -1,4 +1,4 @@
-package ml.lwj.protype;
+package ml.lwj.prototype;
 
 public class Client {
     public static void main(String[] args) {
