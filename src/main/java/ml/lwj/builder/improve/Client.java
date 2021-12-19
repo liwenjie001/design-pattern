@@ -16,6 +16,6 @@ public class Client {
         // 完成盖房子，返回产品（高楼）
         houseDirector.constructHose();
 
-
+        // 测试
     }
 }
